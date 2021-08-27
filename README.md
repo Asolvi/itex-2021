@@ -1,5 +1,5 @@
 # ITEX 2021 hackaton with Asolvi and Online NTNU
-__The code will not be available until Monday 30th of August 2021 at around 13:00.__
+__The code will be available from Monday 30th of August 2021 at around 13:00.__
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
